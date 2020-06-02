@@ -1,0 +1,6 @@
+BIAS
+.ipynb_checkpoints
+.idea
+.pyc
+.DS_Store
+__pycache__
